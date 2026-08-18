@@ -30,7 +30,3 @@ Designed a complete, top-to-bottom layout hierarchy tailored for a high-performa
 ## 🛠️ Tools & Methodology
 * **Design Tool:** Figma
 * **Framework:** Low-Fidelity Wireframing & Information Architecture Layout
-
----
-
-🚀 *Next Phase: Project 3 — High-Fidelity UI Design & Brand Identity*
