@@ -6,7 +6,7 @@
 ---
 
 ## 📌 Problem Overview
-E-commerce brands often experience customer drop-offs during browsing and checkout due to cluttered layouts and unclear visual hierarchy[cite: 1]. This project focuses on establishing a clean, logical homepage structure ("The Skeleton") that guides users seamlessly through purchasing pathways before introducing visual design elements.
+E-commerce brands often experience customer drop-offs during browsing and checkout due to cluttered layouts and unclear visual hierarchy. This project focuses on establishing a clean, logical homepage structure ("The Skeleton") that guides users seamlessly through purchasing pathways before introducing visual design elements.
 
 ---
 
